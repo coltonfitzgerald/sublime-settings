@@ -1,2 +1,25 @@
-# sublime-settings
-Here's everything you would ever need to know about what I use in Sublime Text 3
+# Sublime Text 3
+Here's what I use.
+
+## Packages
+- Alignment
+- ApplySyntax
+- AutoFileName
+- BracketHighlighter
+- Color Highlighter
+- ColorPicker
+- Emmet
+- GhostText
+- GitGutter
+- Package Control
+- Seti_UI
+- Seti_UX
+- SideBarEnhancements
+- SublimeCodeIntel
+- SublimeLinter
+- SublimeLinter-contrib-scss-lint
+- SublimeLinter-csslint
+- SublimeLinter-html-hint
+- SublimeLinter-jshint
+- SublimeLinter-php
+- Themr
