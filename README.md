@@ -19,7 +19,7 @@ Here's what I use.
 - SublimeLinter
 - SublimeLinter-contrib-scss-lint
 - SublimeLinter-csslint
-- SublimeLinter-html-hint
+- SublimeLinter-html-tidy
 - SublimeLinter-jshint
 - SublimeLinter-php
 - Themr
