@@ -8,18 +8,37 @@ Here's what I use.
 - BracketHighlighter
 - Color Highlighter
 - ColorPicker
+- DocBlockr
 - Emmet
+- Emmet CSS Snippets
+- Floobits
 - GhostText
+- Git
 - GitGutter
+- Gutter Color
+- HTML-CSS-JS Prettify
+- HTML5
+- HTMLBeautify
+- Jade
+- JavaScript Completions
+- JsFormat
+- Material Theme
+- Material Theme - Appbar
+- Material Theme - White Panels
 - Package Control
+- PyV8
 - Seti_UI
 - Seti_UX
+- SFTP
 - SideBarEnhancements
 - SublimeCodeIntel
 - SublimeLinter
 - SublimeLinter-contrib-scss-lint
 - SublimeLinter-csslint
 - SublimeLinter-html-tidy
+- SublimtLinter-jscs
 - SublimeLinter-jshint
 - SublimeLinter-php
+- Syntax Highlighting for Sass
 - Themr
+- Wakatime
